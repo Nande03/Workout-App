@@ -24,7 +24,7 @@ object Constants {
         )
         exerciseList.add(abdominalCrunch)
 
-        val stepUpOnChair = ExerciseModel(5, "Wall Sit", R.drawable.step_ups, false, false
+        val stepUpOnChair = ExerciseModel(5, "Step up on chair", R.drawable.step_ups, false, false
         )
         exerciseList.add(stepUpOnChair)
 
@@ -32,7 +32,7 @@ object Constants {
         )
         exerciseList.add(squat)
 
-        val tricepDipOnChair = ExerciseModel(7, "Wall Sit", R.drawable.tricep_dips_on_chair, false, false
+        val tricepDipOnChair = ExerciseModel(7, "Tricep dip on chair", R.drawable.tricep_dips_on_chair, false, false
         )
         exerciseList.add(tricepDipOnChair)
 
